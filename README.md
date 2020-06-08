@@ -1,6 +1,6 @@
 <h1 align="center">
 <br>
-  <img src="https://github.com/mmont17/next-level-week/tree/master/public/assets/logo.svg" alt="Ecoleta" width="120">
+  <img src="https://github.com/mmont17/next-level-week/tree/master/public/assets/Readme/logo.png" alt="" width="120">
 <br>
 <br>
 Ecoleta
